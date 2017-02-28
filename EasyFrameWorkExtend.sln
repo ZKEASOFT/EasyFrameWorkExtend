@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyFrameWorkExtend", "EasyFrameWorkExtend\EasyFrameWorkExtend.csproj", "{7A33D34A-5D2E-4EB1-AD5D-34A3989205FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Data.DataBase.SQLite", "Easy.Data.DataBase.SQLite\Easy.Data.DataBase.SQLite.csproj", "{CE5F6DA3-5C2C-4200-95F5-B65C52B584C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Storage.QCloud", "Easy.Storage.QCloud\Easy.Storage.QCloud.csproj", "{544ABBD9-AC27-42B7-AB8C-A2714AAAFC57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Storage.QCloudBackSource", "Easy.Storage.QCloudBackSource\Easy.Storage.QCloudBackSource.csproj", "{52D912AD-3A5A-43DD-9880-2E690786CFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Data.DataBase.MySql", "Easy.Data.DataBase.MySql\Easy.Data.DataBase.MySql.csproj", "{CCEA4081-B5D3-4271-A8A1-FCF17ECC1455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A33D34A-5D2E-4EB1-AD5D-34A3989205FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A33D34A-5D2E-4EB1-AD5D-34A3989205FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A33D34A-5D2E-4EB1-AD5D-34A3989205FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A33D34A-5D2E-4EB1-AD5D-34A3989205FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5F6DA3-5C2C-4200-95F5-B65C52B584C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5F6DA3-5C2C-4200-95F5-B65C52B584C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5F6DA3-5C2C-4200-95F5-B65C52B584C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5F6DA3-5C2C-4200-95F5-B65C52B584C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544ABBD9-AC27-42B7-AB8C-A2714AAAFC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544ABBD9-AC27-42B7-AB8C-A2714AAAFC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544ABBD9-AC27-42B7-AB8C-A2714AAAFC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544ABBD9-AC27-42B7-AB8C-A2714AAAFC57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D912AD-3A5A-43DD-9880-2E690786CFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D912AD-3A5A-43DD-9880-2E690786CFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D912AD-3A5A-43DD-9880-2E690786CFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D912AD-3A5A-43DD-9880-2E690786CFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEA4081-B5D3-4271-A8A1-FCF17ECC1455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEA4081-B5D3-4271-A8A1-FCF17ECC1455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEA4081-B5D3-4271-A8A1-FCF17ECC1455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEA4081-B5D3-4271-A8A1-FCF17ECC1455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
